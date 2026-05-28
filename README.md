@@ -58,8 +58,9 @@ plt.show()
 
 
 
-# Result
-<img width="722" height="662" alt="image" src="https://github.com/user-attachments/assets/9610bbd2-49e2-4196-a654-eec175b8c9f3" />
-
+# Result:
+Thus, the program to analyse given data using co-efficient of correlation and regression line has been done
+successfully
 
 # Output 
+<img width="722" height="662" alt="image" src="https://github.com/user-attachments/assets/9610bbd2-49e2-4196-a654-eec175b8c9f3" />
